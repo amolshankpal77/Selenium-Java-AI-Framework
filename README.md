@@ -51,7 +51,7 @@ I'm an experienced Automation Test Engineer specializing in building robust, sca
 ---
 
 ## 💡 Tagline
-
+.
 > "Empowering startups to scale faster with smart automation."
 
 ---
